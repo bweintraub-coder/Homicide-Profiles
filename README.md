@@ -1,3 +1,10 @@
-# Serial-Killer-Profiles
-This is a visualtion that uses data from 1980 - 2014 and creates a avaerage profile of the type of person 
-that is mostly to be the victim, perpetrator, and avareages for each city.
+# Homicide-Profiles
+ 
+Content 
+
+This is a project that is to see the average profile of the most common type of victim and perpetrator for a certain year, month, state, and city.
+
+Acknowledgements
+
+This data was complied byt the Murder Accountablility Project (founded by Thomas Hargrove).  The CSV file was found on Kaggle under Homicde Reports, 1980-2014
+
